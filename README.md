@@ -1,4 +1,4 @@
-# VBA-challenge--
+# VBA-challenge
 ![image](https://user-images.githubusercontent.com/106934375/187583385-2b00f96d-9edb-4542-be38-4fb84e0740d8.png)
 
 ## Background
