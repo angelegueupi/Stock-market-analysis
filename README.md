@@ -1,4 +1,6 @@
 # VBA-challenge--
+![image](https://user-images.githubusercontent.com/106934375/187583385-2b00f96d-9edb-4542-be38-4fb84e0740d8.png)
+
 ## Background
 In this homework assignment, we will use VBA scripting to analyze generated stock market data. Depending on our comfort level with VBA, you may choose to challenge yourself with a few of the bonus Challenge tasks.
 
